@@ -1,6 +1,6 @@
 const userInput = document.getElementById('text-input');
 
-if(Input === ""){
+if(userInput === " "){
   alert("Please input a value")
 
 }
