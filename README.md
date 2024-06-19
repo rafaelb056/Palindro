@@ -17,7 +17,7 @@ This project about the game of rock, paper or scissors
 
 ## Live Demo
 
-[Live Demo Link]( https://rafaelb056.github.io/Palindro/
+[Live Demo Link]( https://rafaelb056.github.io/Palindro/)
 
 
 ## Getting Started
